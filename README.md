@@ -4,7 +4,7 @@ Hello, I am a Software Developer with a history of working in the information te
 
 **Skills:** MEAN stack | Python | Machine Learning | Android
 
-- ✍️ I am currently learning I am currently learning Container Orchestration tools
+- ✍️ I am currently learning Container Orchestration tools
 
 - 🌱  I am currently looking to collaborate on Web Projects, Machine Learning, Devops
 

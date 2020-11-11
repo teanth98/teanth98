@@ -2,7 +2,7 @@
 ### About me 🤓
 Hello, I am a Software Developer with a history of working in the information technology and services industry. Skilled in Python, Cross-Platform application development, Databases, Machine Learning, and Data Science. Strong engineering professional with a Bachelor of Technology - BTech focused on Computer Science from Vivekanand Education Society's Institute Of Technology. 
 
-**Skills:** MEAN stack | Python | Machine Learning | Android
+**Skills:** MEAN stack | Python | Machine Learning | Laravel | Android 
 
 - ✍️ I am currently learning Container Orchestration tools
 
